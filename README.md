@@ -4,7 +4,6 @@ Contains MATLAB codes used to generate Figure 3 and Figure 5 of the manuscript, 
 Code used to generate Figure 3 is named as Figure_3.m.
 
 Code used to generate Figure 5 is present in Figure 5 folder. The folder contains files-
-
 1. ao_model_change_c.m - Simulates the adder per origin model
 2. ch_model_change_c.m - Simulates the Cooper Helmstetter model
 3. parallel_adder_change_c.m - Simulates the parallel adder model
